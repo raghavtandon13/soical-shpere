@@ -36,6 +36,9 @@ Start the client by running npm start in the client directory
 Open a browser and navigate to http://localhost:3000
 ## Contributing
 Contributions to this project are always welcome! If you find a bug or want to suggest a new feature, please open an issue on GitHub. If you want to contribute code, please fork the repository and submit a pull request.
+# Home Page
 ![rt](https://user-images.githubusercontent.com/121853010/233181351-7c15200a-e6d6-48c4-958c-6177a9373268.jpg)
+# Login Page
 <img width="526" alt="Screenshot 2023-04-20 003229" src="https://user-images.githubusercontent.com/121853010/233181383-dba089b4-2a2b-4479-8c48-9278f06076cc.png">
+# SignUp Page
 <img width="447" alt="Screenshot 2023-04-20 003844" src="https://user-images.githubusercontent.com/121853010/233181407-3ac25ceb-bdbd-41f2-af1b-0ecc5948faf2.png">
